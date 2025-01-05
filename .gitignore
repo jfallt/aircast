@@ -1,3 +1,7 @@
 .vagrant
 .idea
 *.pyc
+node_modules/*
+package-lock.json
+package.json
+shairport-sync.conf
